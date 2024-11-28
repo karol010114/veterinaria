@@ -1,1 +1,1 @@
-# pyt_practicas
+# sistema de veterinaria (practicas senati)
